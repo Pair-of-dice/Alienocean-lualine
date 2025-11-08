@@ -1,4 +1,4 @@
-local colours = require("palette").Get()
+local colours = require("alienocean.palette").Get()
 local alienocean = {}
 
 alienocean.normal = {
