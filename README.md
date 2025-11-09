@@ -8,6 +8,5 @@ return{
 ```
 
 ## Other versions of this colourscheme:
-
-<a href="https://codeberg.org/ParadiseOfMagic/Alienocean-lualine">Lualine theme</a>
+<a href="https://codeberg.org/ParadiseOfMagic/Alienocean.nvim">Neovim colourscheme</a>
 <a href="https://codeberg.org/ParadiseOfMagic/Alienocean-alacritty">Alacritty theme</a>
